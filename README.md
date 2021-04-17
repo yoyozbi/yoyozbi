@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Yohan Zbinden, I'm a swiss IT student
+
+You can find here pratically all of my projects since I always do open source
+
+### Some stats about me
+
+<img align="left" alt="AntoineJT's GIthub Stats" src="https:/github-readme-stats.vercel.app/api?username=yoyozbi&show_icons=true&hide_border=true" />
+
+
 <!--
 **yoyozbi/yoyozbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
