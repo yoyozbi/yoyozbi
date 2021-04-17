@@ -6,7 +6,7 @@ You can find here pratically all of my projects since I always do open source
 
 ### Some stats about me
 
-<img align="left" alt="AntoineJT's GIthub Stats" src="https:/github-readme-stats.vercel.app/api?username=yoyozbi&show_icons=true&hide_border=true" />
+<img align="left" alt="yoyozbi Github Stats" src="https:/github-readme-stats.vercel.app/api?username=yoyozbi&show_icons=true&hide_border=true" />
 
 
 <!--
