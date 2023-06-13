@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **golang, svelte, rust (i'm trying...)**
 
-- 💬 Ask me about **anything ! If you I don't know I'll try to learn it**
+- 💬 Ask me about **anything ! If I don't know I'll try to learn it**
 
 - 📫 How to reach me **yohan@yohanzbinden.ch**
 
