@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything ! If I don't know I'll try to learn it**
 
-- 📫 How to reach me **yohan@yohanzbinden.ch**
+- 📫 **yohan@yohanzbinden.ch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
