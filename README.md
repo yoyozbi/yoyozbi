@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yohan</h1>
-<h3 align="center">Student currently learning to code</h3>
+<h3 align="center">CS Student soon to have a Bachelor (September 2026)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoyozbi&label=Profile%20views&color=0e75b6&style=flat" alt="yoyozbi" /> </p>
 
